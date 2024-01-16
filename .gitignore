@@ -1,0 +1,4 @@
+sheets/__pycache__/
+tests/__pycache__/
+stresstests/__pycache__/
+.DS_Store
